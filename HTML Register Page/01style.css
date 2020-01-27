@@ -1,0 +1,18 @@
+.textbox{
+height: 40px;
+width: 150px;
+background: white;
+border: 2px solid black;
+}
+.wrapper{
+height: fit-content;
+width: fit-content;
+background-color: lightcyan;
+margin: 37.5%;
+}
+#Window{
+height: 50%;
+width: 25%;
+background-color: darkgray;
+padding: 50px 50px 50px 50px;
+}
